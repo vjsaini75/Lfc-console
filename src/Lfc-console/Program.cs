@@ -21,7 +21,7 @@ namespace Lfc_console
             {
                 x += 0.1f;
                 controlVarIn.Target.Value = Math.Sin(x);
-                var controller = PidController.PidControlFunc(controlVarIn, setting, cycle);
+                var controller = pidController.PidControlFunc(controlVarIn, setting, cycle);
 
                 Console.WriteLine("{0,20}{1,20}{2,20}{3,20}{4,20}",  controller.Target.Value,
                     controller.CurrentPosition,

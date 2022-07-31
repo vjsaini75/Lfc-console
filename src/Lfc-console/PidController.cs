@@ -2,7 +2,7 @@ namespace Lfc_console;
 
 public class PidController
 {
-    public static PidControlVariable PidControlFunc(PidControlVariable pidControlIn, PidSettings settings,PidCycle pidCycle)
+    public PidControlVariable PidControlFunc(PidControlVariable pidControlIn, PidSettings settings,PidCycle pidCycle)
     {
          
         var error= pidControlIn.Target.Value - pidControlIn.CurrentPosition; 
@@ -14,10 +14,9 @@ public class PidController
         var derivative = settings.Kd * errorDiff;
 
         var setpoint = proportional + derivative + integral;
-        var currentPosition = pidControlIn.CurrentPosition + 0.1 * setpoint; 
-        
-        PidControlVariable controlOutput;
-        controlOutput = new PidControlVariable(pidControlIn.Target, currentPosition)
+        var currentPosition = pidControlIn.CurrentPosition + 0.1 * setpoint;
+
+        var controlOutput = new PidControlVariable(pidControlIn.Target, currentPosition)
         {
             Error =
             {
