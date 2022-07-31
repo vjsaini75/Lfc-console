@@ -1,0 +1,15 @@
+C:\Users\VijayKumar\RiderProjects\Lfc-console\src\Lfc-console\bin\Debug\net6.0\Lfc-console.exe
+C:\Users\VijayKumar\RiderProjects\Lfc-console\src\Lfc-console\bin\Debug\net6.0\Lfc-console.deps.json
+C:\Users\VijayKumar\RiderProjects\Lfc-console\src\Lfc-console\bin\Debug\net6.0\Lfc-console.runtimeconfig.json
+C:\Users\VijayKumar\RiderProjects\Lfc-console\src\Lfc-console\bin\Debug\net6.0\Lfc-console.dll
+C:\Users\VijayKumar\RiderProjects\Lfc-console\src\Lfc-console\bin\Debug\net6.0\Lfc-console.pdb
+C:\Users\VijayKumar\RiderProjects\Lfc-console\src\Lfc-console\obj\Debug\net6.0\Lfc-console.csproj.AssemblyReference.cache
+C:\Users\VijayKumar\RiderProjects\Lfc-console\src\Lfc-console\obj\Debug\net6.0\Lfc-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VijayKumar\RiderProjects\Lfc-console\src\Lfc-console\obj\Debug\net6.0\Lfc-console.AssemblyInfoInputs.cache
+C:\Users\VijayKumar\RiderProjects\Lfc-console\src\Lfc-console\obj\Debug\net6.0\Lfc-console.AssemblyInfo.cs
+C:\Users\VijayKumar\RiderProjects\Lfc-console\src\Lfc-console\obj\Debug\net6.0\Lfc-console.csproj.CoreCompileInputs.cache
+C:\Users\VijayKumar\RiderProjects\Lfc-console\src\Lfc-console\obj\Debug\net6.0\Lfc-console.dll
+C:\Users\VijayKumar\RiderProjects\Lfc-console\src\Lfc-console\obj\Debug\net6.0\refint\Lfc-console.dll
+C:\Users\VijayKumar\RiderProjects\Lfc-console\src\Lfc-console\obj\Debug\net6.0\Lfc-console.pdb
+C:\Users\VijayKumar\RiderProjects\Lfc-console\src\Lfc-console\obj\Debug\net6.0\Lfc-console.genruntimeconfig.cache
+C:\Users\VijayKumar\RiderProjects\Lfc-console\src\Lfc-console\obj\Debug\net6.0\ref\Lfc-console.dll
